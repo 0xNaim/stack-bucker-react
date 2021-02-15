@@ -1,7 +1,7 @@
 import {Redirect, Router} from "@reach/router";
-import NotFound from "../pages/404";
-import BucketDetailPage from "../pages/bucket-detail";
-import BucketPage from "../pages/buckets";
+import NotFound from "../pages/404/NotFound";
+import BucketDetailPage from "../pages/bucket-detail/BucketDetail";
+import BucketPage from "../pages/buckets/Buckets";
 
 function AppRouter() {
   return (
