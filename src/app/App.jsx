@@ -1,5 +1,5 @@
 import { Helmet } from "react-helmet";
-import AppRouter from "./router";
+import AppRouter from "./Router";
 
 function App() {
   return (
